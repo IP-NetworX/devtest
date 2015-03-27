@@ -1,6 +1,6 @@
 <?php
 
-$data = dns_get_record ( 'dima.de', DNS_ANY );
+$data = dns_get_record ( 'google.com', DNS_ANY );
 
 echo "<pre>";
 print_r($data);
