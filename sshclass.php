@@ -58,7 +58,7 @@ class ssh2 {
 ?>
 
 <textarea style="width: 752px; height: 391px;"><?php
-$host = 127.0.0.1';
+$host = '127.0.0.1';
 $user = 'root';
 $port = '22';
 $password = 'MyRoootPass';
